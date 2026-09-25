@@ -1,0 +1,15 @@
+/* Tema sınıfları */
+.theme-zen {
+    --bg-color: #1a1a2e;
+    --accent-color: #e94560;
+}
+
+.theme-energy {
+    --bg-color: #0f0f0f;
+    --accent-color: #facc15;
+}
+
+.theme-calm {
+    --bg-color: #0c4a6e;
+    --accent-color: #2dd4bf;
+}
